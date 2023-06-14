@@ -50,6 +50,15 @@ https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQfy-5I76jy3GWAch8vVCTjsGsZ
 	
 	}
 }
+
+@media (min-width:575px){
+	.card-body > a{
+	position: absolute;
+	bottom: 20px;
+}
+}
+
+
 h3 {
 	padding-top: 20px;
 	padding-bottom: 10px;
@@ -165,5 +174,7 @@ h3 {
 			background-image: url("images/koggala-turtle-hatchery.jpg");
 
 }
+
+
 
 
