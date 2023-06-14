@@ -1,0 +1,12 @@
+.card-body .card-text span {
+    font-size: x-large;
+    font-weight: bold;
+    color: #237C74;
+}
+.row .col-lg-6 h4 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.row .col-lg-6 iframe {
+    width: 100%;
+}
